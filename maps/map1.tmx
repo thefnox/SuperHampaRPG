@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="build_atlas" tilewidth="32" tileheight="32">
+  <image source="../images/build_atlas.png" width="1024" height="1024"/>
+  <tile id="146">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="147">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="148">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="419">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="420">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="421">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="451">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="452">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="453">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="483">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="484">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+  <tile id="485">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1025" name="obj_misk_atlas" tilewidth="32" tileheight="32">
+  <image source="../images/obj_misk_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="map" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt10tqwzAUBVB37R1kA91AaeJ9pJ/sI+SzjtpgU6FalpwELMI5cCc2aPCuZOGmAW61efkf1tPPf9tl16Vd2MdUl6m86jkpntW5y6XLdeFZWdLHhz6S9FGX8Bu1G7oYMz5rC+ccrjOVVh9Z4ZlIZeqsTKV0HX2klcwxPCtzya2hj7zSPh4RfeSV9vFTEH3cz/1Rl34+34k9Pj47DHP8nMm4ztxZOugja8n/R64P/x/32UczPUZ9nKL3qTX2w7u5vsJ86aPIe9SHfbwufdRFH3XRR136e/mt+Yt7d31hHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDz+gUPWwOE
+  </data>
+ </layer>
+ <layer name="decor" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1k1KQlEYgOEjqHcLLaVltJPaQitwDWINy0FZY7OG1SDM5o1rEmHDPlG4YR6h8mrF88AH9w+R83J/UgJg3kmR0mlMr9j0P/kb9msptWur/c1WPaXdxnTuosN5M6VhUR6bDIu1K+jRjR6txnReZvfFa1Eea+mRtcoeo1jnh5jb6NFtTGeiEy1GRXmsq0fWV3sM49lz3yz3e7F9Ntsfxzq/LVjrcb3cPojzh3pkVfG8WuYyWlzpkbXuHiy37h5H8R459u2bVWWPrebnY9fR4kaPrCp67MT7YS9me0GPp2jxrEfWd3o8et9U5mOLi9p0lpmcH8R0Mtf1tfqRfq3ssKzH/DUD675RufuBzdDjd9Hjd9FjM3LfR97fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D+9A1sxQf8=
+  </data>
+ </layer>
+ <layer name="decor2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEJwkAQBdBNKWolaiXRYixALcBW7ERsRIWI7rgJhASC+h78Q4Y5LPMvSQkAAAAAgH82q1Kav+XhXE37pl9zabnntTBf3merkNhRWxZNyM3CjU4dN4q7pT5Ks1LWTcgtw426+oi7+hjfkD7qezYhffrY6uPDkD52hZQ6KmXb7JOrw40e4j/S8zvulvroG3JtdzqkV/rcUhfDjN0H49unvI/jtM8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICvdAOE/0wU
+  </data>
+ </layer>
+ <objectgroup name="objects" width="100" height="100">
+  <object name="Player" type="Player" x="317" y="230" width="32" height="64"/>
+  <object name="TestNPC1" type="TestNPC1" x="426" y="339" width="32" height="64"/>
+  <object name="TestNPC1" type="TestNPC1" x="317" y="434" width="32" height="64"/>
+  <object name="TestNPC1" type="TestNPC1" x="899" y="295" width="32" height="64"/>
+ </objectgroup>
+</map>

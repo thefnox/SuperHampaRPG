@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="hyptosis_tile-art-batch-3" tilewidth="32" tileheight="32">
+  <image source="images/hyptosis_tile-art-batch-3.png" width="960" height="960"/>
+  <tile id="5">
+   <properties>
+    <property name="solid" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt19FNwzAUQNGEjwCDAMvywxiAVNgCkAp7UJbAlXCJmqA42AkWOkd66v+7aRw3Df/NWeZQlh51iXvtwty0adM1eiwl7nUT9vyQOI+tHkuJe92GHb8mzpseizmcBSczp9FjCXrURY+66PH3ut7k3j/cR/KVaNG/r7iP5CnRY+M+UkyJHlv3kWKKnB3O92L6Pfa/1+0v+uiRrWuG31a3ocVdmPu2TA/fWunGejyFDs9hXvRY3ViP99BhF+Zjbo/exHfe8XuPoaldnn493+c/POMpE/9jx/8zhqZ2eRE6XIa5yujhbE839U4pMnokm3qn6LGuuJtd+z05Z7ceecZ2lnN2zxmG4m7231ElvqX0yLPG3vVYh73WRY+66FEXPQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgFSfIZdEnA==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="100" height="100">
+  <object name="Player" type="Player" x="784" y="900" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="974" y="604" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="574" y="696" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="786" y="414" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="484" y="384" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="1124" y="776" width="32" height="64"/>
+ </objectgroup>
+ <layer name="decor1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2VFOwjAYB3Dmqz5zB33mDnoRvQwhMV6BizoTEzZg61e7jcp+v6TZA9Am3z9tabfZ8N88JNrc/U8xxj2RR12itfps4n1+db4rjzzmR13kUZdorbZN3jPavzz6orXaNXnPaP/y6LNe1aWkVo9teyrsXx59JfV5btvLguOtQUl9Xtv2NvBZ97ySOo9wUlKf97Z9LDjeGixdH3mMm6s+5+eQuce7F6n67H/resi4v/pxfg6Jjrd2t6yLPC7NnccxMDYnqTyG7qVy7Du/PVz570vc0L3UFOTxN2NrTkR3bm3Nj5ChNWUK3bm1k0e15DGuZM9OubbmyWPcHHv2GHmkle7dOeRRF3lciry/S73XK+lDHn3yqIs86iIPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgCd/dZxBX
+  </data>
+ </layer>
+</map>

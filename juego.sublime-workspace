@@ -1,0 +1,1105 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cantidad",
+				"cantidadB"
+			],
+			[
+				"hook",
+				"hook.Call"
+			],
+			[
+				"Obb",
+				"OBBMaxs	:OBBMaxs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gamelib/polygon.lua",
+			"settings":
+			{
+				"buffer_size": 6159,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "battlescene.lua",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "introview.lua",
+			"settings":
+			{
+				"buffer_size": 867,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mainmenu.lua",
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Windows",
+				"name": "--Menu Principal"
+			}
+		},
+		{
+			"file": "docs/awiderworld/castleview.lua",
+			"settings":
+			{
+				"buffer_size": 1567,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "loveframes/init.lua",
+			"settings":
+			{
+				"buffer_size": 8610,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zoetrope/core/app.lua",
+			"settings":
+			{
+				"buffer_size": 11506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zoetrope/core/keys.lua",
+			"settings":
+			{
+				"buffer_size": 6360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zoetrope/core/mouse.lua",
+			"settings":
+			{
+				"buffer_size": 5515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zoetrope/core/view.lua",
+			"settings":
+			{
+				"buffer_size": 8642,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zoetrope/core/tween.lua",
+			"settings":
+			{
+				"buffer_size": 8530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "introscene.lua",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "battlemap.lua",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Fernando/AppData/Roaming/Sublime Text 2/Packages/User/love.sublime_build.sublime-build",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/User/love.sublime_build.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Fernando/ceidecjuego/docs/awiderworld/castleview.lua",
+		"/C/Users/Fernando/ceidecjuego/docs/awiderworld/main.lua",
+		"/C/Users/Fernando/ceidecjuego/docs/awiderworld/endingview.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/Rar$DI30.384/main.lua",
+		"/C/Users/Fernando/ceidecjuego/zoetrope/sprites/tile.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/sh_containers.lua",
+		"/C/Users/Fernando/Documents/base de datos/proyecto.ql.sql",
+		"/C/Users/Fernando/Documents/labs/laboratorio2-3.cpp",
+		"/C/Users/Fernando/Documents/orga/lab3.asm",
+		"/C/Users/Fernando/Documents/orga/lab3_fernando_solymar.asm",
+		"/C/Users/Fernando/Documents/orga/gayness.asm",
+		"/C/Users/Fernando/Documents/orga/labdaniela.cpp",
+		"/C/Users/Fernando/Documents/orga/postlab3.txt",
+		"/C/Users/Fernando/ceidecjuego/zoetrope/init.lua",
+		"/C/Users/Fernando/ceidecjuego/LICENSE",
+		"/C/Users/Fernando/Documents/orga/lab2.asm",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/sh_items.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/sv_playerdata.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/sh_charobj.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/sv_mysql.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/items.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/schema.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/items/item_test.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/cl_init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/config.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/shared.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/configuration.lua",
+		"/C/Users/Fernando/AppData/Roaming/X-Chat 2/xchatlogs/synirc-#FLAP..log",
+		"/C/Users/Fernando/Downloads/Native.Instruments.Guitar.Rig.5.Pro.STANDALONE.VST.RTAS.v5.0.2.x86.x64-ASSiGN(Murlok)/ASSiGN.nfo",
+		"/C/Users/Fernando/AppData/Roaming/X-Chat 2/xchatlogs/synirc-#bloc.log",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/shared.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/voice/sh_voice.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/cl_characterselect.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/groups/cl_factions.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/groups/factions.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terramortis/gamemode/shared.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terramortis/gamemode/init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terramortis/gamemode/cl_init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terramortis/gamemode/config.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/coolzombieintro.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/coolinventory",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/cl_charactercreate.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/zombies/lua/entities/entropy_zombie/shared.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/chat/cl_chat.lua",
+		"/C/Users/Fernando/Documents/My Games/Skyrim/Skyrim.ini",
+		"/C/Users/Fernando/Downloads/main.cpp",
+		"/C/Users/Fernando/Documents/spoj/sbank.cpp",
+		"/C/Users/Fernando/Downloads/Street.Fighter.X.Tekken-SKIDROW/skidrow.nfo",
+		"/C/Users/Fernando/Downloads/Super.Street.Fighter.IV.Arcade.Edition-SKIDROW/skidrow.nfo",
+		"/C/Users/Fernando/Documents/spoj/sbank.in",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/update_gcompute.bat",
+		"/C/Users/Fernando/Documents/spoj/temp.cpp",
+		"/C/Users/Fernando/AppData/Local/Temp/Rar$DI03.088/R2R.nfo",
+		"/C/Users/Fernando/Documents/backup/startgmod.sh",
+		"/C/Users/Fernando/Downloads/thread2.c",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/cl_skin.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/sh_groups.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/init.lua",
+		"/C/Users/Fernando/Documents/spoj/act.cpp",
+		"/C/Users/Fernando/Documents/spoj/act.in",
+		"/C/Users/Fernando/Documents/spoj/hc.cpp",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/cl_init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/cl_skin.lua",
+		"/V/Fairlight/fairlight.nfo",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/items/clothing_base.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/pac3/lua/pac3/pace/basic_mode.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/pac3/lua/pac3/pace/translations/korean.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/pac3/lua/pac3/pace/translations/japanese.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/chat/sv_chat.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/78721840/config_default.cfg",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy2/gamemode/honsolo.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terrortown/gamemode/cl_hud.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terrortown/gamemode/cl_tbuttons.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/terrortown/gamemode/cl_radar.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/honsolo.lua",
+		"/C/Users/Fernando/modules/module_base/example/BuildProjects.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/fspace/README.md",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/tiramisu_release/lua/entities/item_prop/shared.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/tiramisu_release/lua/entities/item_prop/cl_init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/tiramisu_release/lua/entities/item_prop/init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/chull/lua/entities/phys_hull/shared.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/chull/lua/entities/phys_hull/cl_init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/chull/lua/entities/phys_hull/init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/resourcex/sn3_base_sv.lua",
+		"/C/Users/Fernando/Downloads/tarea.cpp",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/glib/lua/autorun/glib.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/gm_sourcenet3/examples/sn3_base_cl.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/shared.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/TortoiseGit/cl_flashlight_6335b1f.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/flashlight/cl_flashlight.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/schemas/global/plugins/flashlight/sv_flashlight.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/TortoiseGit/sv_flashlight_6335b1f.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/sv_accessories.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/sv_mysql.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/sv_hooks.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/sv_datahandling.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/sv_characters.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/init.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/entropy/gamemode/sh_items.lua",
+		"/C/Users/Fernando/Documents/usopen/photo.out",
+		"/C/Users/Fernando/Documents/usopen/blink.out",
+		"/C/Users/Fernando/Documents/spoj/bsheep.cpp",
+		"/C/Users/Fernando/Documents/usopen/ballet.out",
+		"/C/Users/Fernando/Documents/usopen/ballet.in",
+		"/C/Users/Fernando/Documents/usopen/haywire.cpp",
+		"/C/Users/Fernando/Documents/usopen/haywire.in",
+		"/C/Users/Fernando/Documents/usopen/blink.in",
+		"/C/Users/Fernando/Documents/usopen/photo.in",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/DarkRP/gamemode/_MySQL.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/TortoiseGit/cl_93FA.tmp/cl_hud_3dcc6b5.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/TortoiseGit/cl_5D8D.tmp/cl_hud_939b962.lua",
+		"/C/Users/Fernando/AppData/Local/Temp/TortoiseGit/cl_FF3A.tmp/cl_hud_0224cfa.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/lua/autorun/chull.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/lua/includes/modules/chull.lua",
+		"/C/Users/Fernando/Documents/spoj/bsheep.in",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/concmd.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/util.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu3/gamemode/player_util.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisuhl2rp/gamemode/schemas/global.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/tiramisuhl2rp/gamemode/schemas/global/plugins/menu/cl_options.lua",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/gamemode/util.lua",
+		"/C/Users/Fernando/Documents/spoj/gen.out",
+		"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/addons/tiramisu_release/gamemodes/tiramisu/gamemode/cl_skin.lua",
+		"/C/program files (x86)/Steam/steamapps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu2/entities/entities/geareditor_arrow.lua",
+		"/C/program files (x86)/Steam/steamapps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu2/entities/entities/geareditor_base.lua",
+		"/C/program files (x86)/Steam/steamapps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu2/entities/entities/geareditor_disc.lua",
+		"/C/program files (x86)/Steam/steamapps/thenoman/garrysmod/garrysmod/gamemodes/tiramisu2/entities/entities/geareditor_bones.lua"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\entropy2\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\lua",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\entropy2\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\terrortown\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\terrortown",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Entropy",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisu",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisu3",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisuhl2rp",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisu",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisu2",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\cfg",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisu2\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Tiramisu\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Entropy\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Tiramisu\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Entropy\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\STALKER",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Tiramisu\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\TIRAOLD\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\Tiramisu\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garrysmod\\garrysmod\\gamemodes\\tiramisu",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garry's mod beta\\garrysmodbeta\\gamemodes\\Entropy\\gamemode",
+			"C:\\Program Files (x86)\\Steam\\SteamApps\\thenoman\\garry's mod beta\\garrysmodbeta\\gamemodes\\Tiramisu\\gamemode"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"info",
+			"onUpdate",
+			"fade",
+			"        for i=-self.scale, self.scale do\n            self.hexes[i] = {}\n            for j=-self.scale, self.scale do\n                if j+i<=self.scale and not (i*-1+j*-1>self.scale) then\n                    self.hexes[i][j] = HexTile:new{coords = {q=i, r=j}, origcolor = {self.origcolor[1],self.origcolor[2],self.origcolor[3],self.origcolor[4]}}\n                    self.hextiles:add(self.hexes[i][j])\n                end\n            end\n        end",
+			"xor",
+			"Xor",
+			"is Online",
+			"Wezab MAELSTROM Ember",
+			"Tentaculus Magnificus 40",
+			"/Metritron",
+			"Second Chance",
+			"is Offline",
+			"is Online",
+			"self.Container",
+			"Entropy.ItemDatafields",
+			"GetCharacterData",
+			"SetCharacterData",
+			"SetData",
+			"New",
+			"ENTROPY.CreateItem",
+			"ENTROPY.ItemClasses[",
+			"ENTROPY.SQLType",
+			"ENTROPY.CharacterDataFields",
+			"ENTROPY.AddContainerDataField",
+			"ENTROPY.CharacterDataTypes",
+			"ENTROPY.AddCharacterDataField",
+			"owner",
+			"RunString",
+			"\"ENTROPY.RequestItem\"",
+			"self:SetItemData",
+			"self.ID",
+			"CreateItemData",
+			"ENTROPY.PlayerItems",
+			"ENTROPY.ActiveItem",
+			"ENTROPY.ItemSubscribers",
+			"ENTROPY.ItemFactories",
+			"Faction",
+			"remove",
+			"delete",
+			"gamemode.",
+			"hook.Call",
+			"end",
+			"ENTROPY.__MainScreenOpened ",
+			"\\\\",
+			"|",
+			"\\\\|",
+			"\\\\m/",
+			"_)",
+			"\\m/",
+			"c_)",
+			"10",
+			"draw=false",
+			"http://www.bloc.name/stats.php?id=4359",
+			"http://www.bloc.name/stats.php?id=3942",
+			"draw",
+			"draw=true",
+			"logo.png",
+			"StopMovingToPos",
+			"self.Idling",
+			"EnemyInRange",
+			"self.WalkSpeed",
+			"function\">",
+			"<Doot> ",
+			"<FNox> ",
+			"unordered_map",
+			"[/font]",
+			"[font=andale mono]",
+			"[size=large]",
+			"[/size]",
+			"center",
+			"else if",
+			"Item",
+			"entropy_items",
+			"Item",
+			"entropy_items",
+			"Character",
+			"duplicator",
+			"Dupes",
+			"duplicator",
+			"contraption",
+			"Char",
+			"Character",
+			"Char",
+			"Character",
+			"entropy_characters",
+			"\"entropy_characters\"",
+			"ENTROPY.CharacterData",
+			"ENTROPY.MySQL.TableIndexes",
+			"CreatePlayerData()",
+			"LoadCharacters",
+			"InitializeClient()",
+			"\"ENTROPY.InitVGUI\"",
+			"\"ENTROPY.CreateChar\"",
+			"deletebutton",
+			"*n",
+			"printf",
+			".push_back",
+			"cost[make_pair(x, y)] = 1;",
+			"cost[make_pair(x, y)] = 3;",
+			"cost[make_pair(x, y)] = 2;",
+			"g[y].push_back(x);",
+			"g[x].push_back(y);",
+			"cost[make_pair(y, x)] ==",
+			"cost[make_pair(x, y)] ==",
+			"ENTROPY.CharSelectFrame.CreateCharButton",
+			"ENTROPY.CharSelectFrame.DisconnectButton",
+			"children",
+			"Composite",
+			"VirtualFunction",
+			"CharSelectFrame",
+			"ENTROPY.CharSelectFrame.MainTitle",
+			"ENTROPY.Config.",
+			"Font1",
+			"Group",
+			"children",
+			"panel",
+			"ENTROPY.CharSelectFrame.DisconnectButton",
+			"frame",
+			"ENTROPY.ActiveCharacter",
+			"__",
+			"\"ENTROPY.InitVGUI\"",
+			"InitializeClient()",
+			"DEBUG",
+			"debug",
+			"cities",
+			"MetalTexture2",
+			"font",
+			"Font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"maintitle",
+			"mul",
+			"Mul",
+			"tritron",
+			"id",
+			"ENTROPY.ItemTemplates",
+			"",
+			"\n",
+			" ",
+			"a",
+			"draw=true",
+			"self.CurrentSpeed",
+			"",
+			"map",
+			"",
+			"if",
+			"Container",
+			"entropy_containers",
+			"Container",
+			"entropy_containers",
+			"Container",
+			"Item",
+			"entropy_items",
+			"\"entropy_items\"",
+			"ENTROPY.ItemData",
+			"selectbutton",
+			"*m",
+			".insert",
+			"cost[make_pair(x, y)] = 1;\n								cost[make_pair(y, x)] = 1;",
+			"cost[make_pair(x, y)] = 3;\n								cost[make_pair(y, x)] = 3;",
+			"cost[make_pair(x, y)] = 2;\n						cost[make_pair(y, x)] = 2;",
+			"g[y].push_back(x);\n						g[x].push_back(y);",
+			"g[y].push_back(x);\ng[x].push_back(y);",
+			"g[y].push_back(x);",
+			"cost[make_pair(x, y)] =",
+			"ENTROPY.CharSelectFrame.FinishCreateButton",
+			"ENTROPY.CharSelectFrame.GoBackButton",
+			"__Composite",
+			"__VirtualFunction",
+			"ENTROPY.CharSelectFrame.Subtitle",
+			"ENTROPY.Config.Fonts.",
+			"Font2",
+			"Composite",
+			"Children",
+			"ENTROPY.CharSelectFrame.CreateCharButton",
+			"ENTROPY.CharSelectFrame.DisconnectButton",
+			"ENTROPY.CharSelectFrame.CreateCharButton",
+			"ENTROPY.CharSelectFrame",
+			"g",
+			"CustomHUDFnox",
+			"\"ENTROPY.PlayerInitPostSQL\"",
+			"self.Data",
+			"entropy_characters",
+			"ENTROPY.AddCharacterDataField",
+			"Character",
+			"points[",
+			"points",
+			"origin",
+			"entities",
+			"meta",
+			"function meta",
+			"_G",
+			"meta",
+			"20",
+			"IsValid",
+			"HungerCircleWidth",
+			"MarginCircle",
+			"FullCircle",
+			"HealthCircleWidth/2 - HealthCircleMargin",
+			"HealthCircleWidth/2 + HealthCircleMargin",
+			"-a * 270/CirclePasses + 225",
+			"-a * 270/CirclePasses + 215",
+			"-a * 270/CirclePasses + 45",
+			"-a * 270/CirclePasses + 90",
+			"-45 + -a * 270/CirclePasses",
+			"-45 + a * 270/CirclePasses",
+			"45 + a * 270/CirclePasses",
+			"a * 270/CirclePasses",
+			"-a * 270/CirclePasses",
+			"-a * 180/CirclePasses",
+			"-a * 360/CirclePasses",
+			"(a ) * 360/(CirclePasses * 1.25)",
+			"(a ) * 270/CirclePasses",
+			"(a) * 270/CirclePasses",
+			"(a + CirclePasses*0.28) * 270/CirclePasses",
+			"(a - CirclePasses*0.28) * 270/CirclePasses",
+			"(a - CirclePasses*0.2) * 270/CirclePasses",
+			"(a - CirclePasses*0.1) * 270/CirclePasses",
+			"(a - CirclePasses*0.25) * 270/CirclePasses",
+			"a - CirclePasses*0.25 * 270/CirclePasses",
+			"a - CirclePasses*0.25) * 270/CirclePasses",
+			"(a - CirclePasses*0.1) * 270/CirclePasses)",
+			"(a - CirclePasses*0.25) * 270/CirclePasses",
+			"(a + CirclePasses*0.25) * 270/CirclePasses",
+			"a * 225/CirclePasses + 180/CirclePasses",
+			"a * 225/CirclePasses + 90/CirclePasses",
+			"a * 225/CirclePasses + 15/CirclePasses",
+			"a * 225/CirclePasses + 45/CirclePasses",
+			"a * 270/CirclePasses + 45/CirclePasses",
+			"a * 315/CirclePasses + 45/CirclePasses",
+			"PortraitPos",
+			"PortraitScale",
+			"PhysicsInitConvex",
+			"PhysicsFromConvex",
+			"p[index3]",
+			"p[index1]",
+			"p[index2]",
+			"GetConvexHull",
+			"omax",
+			"omin",
+			"data3",
+			"data1",
+			"data2",
+			"data1",
+			"ent",
+			")))",
+			"table.insert(points, ",
+			"",
+			"CharacterMenu.ChildrenToLerp",
+			"coord",
+			"bigcoord",
+			"point",
+			"c",
+			"j",
+			"x",
+			"TIRA",
+			"TIRA.Config",
+			"-10,10"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gamelib/polygon.lua",
+					"settings":
+					{
+						"buffer_size": 6159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3565,
+								3565
+							],
+							[
+								4372,
+								4372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "battlescene.lua",
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "introview.lua",
+					"settings":
+					{
+						"buffer_size": 867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mainmenu.lua",
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"auto_name": "--Menu Principal",
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "docs/awiderworld/castleview.lua",
+					"settings":
+					{
+						"buffer_size": 1567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1466,
+								1466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "loveframes/init.lua",
+					"settings":
+					{
+						"buffer_size": 8610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3863,
+								3863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "main.lua",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "zoetrope/core/app.lua",
+					"settings":
+					{
+						"buffer_size": 11506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10842,
+								10842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5726.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "zoetrope/core/keys.lua",
+					"settings":
+					{
+						"buffer_size": 6360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5856,
+								5856
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2983.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "zoetrope/core/mouse.lua",
+					"settings":
+					{
+						"buffer_size": 5515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5018,
+								5018
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2616.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "zoetrope/core/view.lua",
+					"settings":
+					{
+						"buffer_size": 8642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7172,
+								7172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3482.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "zoetrope/core/tween.lua",
+					"settings":
+					{
+						"buffer_size": 8530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1915,
+								1885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 619.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "introscene.lua",
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "battlemap.lua",
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/FPtje-Sublime-GLua-Highlight/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/Fernando/AppData/Roaming/Sublime Text 2/Packages/User/love.sublime_build.sublime-build",
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Program Files (x86)/Steam/SteamApps/thenoman/garrysmod/garrysmod/gamemodes/Tiramisu/tiramisu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true
+}

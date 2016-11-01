@@ -1,0 +1,1 @@
+--El mapa de batalla, con el menu hexagonal

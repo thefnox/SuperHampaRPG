@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="images/hyptosis_tile-art-batch-3.tsx"/>
+ <layer name="map" width="100" height="100">
+  <properties>
+   <property name="solid" value="false"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1DsOwjAURUHSsANWwsay/4qCAhKBHZt8LjAjvQYnVvSOxOkEAAAAAAAAAAAAAMBS49Ef8MPGN1M6K03Pezws2Wvp2flZ6U496mo9Ss+/OivdqUedHln0yKJHFj2ytPZY8rse/dbocRnuo8fn1uhxHe6jx+f8X2Wp9Sh1at27HnV6ZOnpUXtXj36tPc5Po8f69MiiRxY9sqzdo3SnHnV6ZNEjix7fo7cH25jvvzZsT499tex7j/l3R+9fj6mj96/H1NH716ONXWbRI5v9Z9Ejix5Z9MiiRxY9sugBAAAAAAAAAAAAAADAP7sBZ54GjA==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="100" height="100">
+  <object name="Player" type="Player" x="415" y="2077" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="81" y="1768" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="695" y="1759" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="936" y="1752" width="32" height="64"/>
+  <object name="Pran1" type="Pran1" x="427" y="1417" width="32" height="64"/>
+  <object name="NPC" type="NPC" x="491" y="1677" width="32" height="64"/>
+ </objectgroup>
+ <layer name="decor1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2k1u00AYBmA7m4LgGgXBNVjQa7Cg696AAwAngAvwt4deoHCB3IGyzQGYSB7ZGWZiUzvJSH0e6dNIno4Vva9qRYqbBgAAAAAAAAAAAADgfrqqbMi7azZ3OaePcTGbt23TvOvmfbv7N7k9fRxGzOZTyPlzN1+SPnJ7+jgMfdTl2H2w3zH7YFzM9Sbk/LObX0kfuT19HEbM9XfI+babP2G+dt+nvrX/7g3PsayY69mqaR5083DVP6O2z6d0b3iOZZX6uBk8n/RxPDHX85Dzk26ervpn1Pb5lO4Nz7GsUq5nyf/D1HPMo4+6lHI9T55PU88xj1zroo+66KMu+qjLMX8fZJw+6qKP03gU5nFmHeb6vc0cLOxf7blnaaX3LMzzzDrsYx3y/hDWj8nZeG2d9FG6Z2ml9zLMRWYd9rEJef8I63VyNl7b7rdt/xt46Z6lld7rMJeZdd/7BS8K1+OZ0j1LK/O8OvUHYMebU3+Ae+5/vl9xeOuRvMf2mW7K++abkbw3g3dLvN8+z5L56GO+OXktkb8+dumjLvqoiz7qoo+66KMu+gAAAAAAAAAAAAAAAIDp/gIY/PlD
+  </data>
+ </layer>
+ <layer name="decor2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2MsJwzAQRVG5iFSSQpJS3P/KGAL5QJAzsdEDnwODFgYv5mql1gAAAAAAAAAAAAAAAAComl+G8fTIokcWPba7Ta3dp+e59dsv9MiiR91lej/3oEfNuq/ro8N67rU/PWo+96XHWHpk0SOLHln0yKJHFj2y6JFFjyx6nIMeWfToq+ynulM9AOA/c2f2/NeW4btKD47Tu7/u91hHvZdQo0cWPbLokUWPLHoAAAAAAAAAAAAAAABwdgvBYj95
+  </data>
+ </layer>
+</map>
